@@ -9,7 +9,7 @@
 
 - 📚 I’m currently learning **React and node js**
 
-- 📂 Former projects I worked on: [Zero Waste](https://www.zerowaste.app.br/) and [Hobbyshare](https://www.zerowaste.app.br/](https://hobbyshare-brunasuzuki.herokuapp.com/)
+- 📂 Former projects I worked on [Zero Waste](https://www.zerowaste.app.br/) and [Hobbyshare](https://hobbyshare-brunasuzuki.herokuapp.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akemi-Hiruma?tab=repositories](https://github.com/Akemi-Hiruma?tab=repositories)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/akemi-hiruma/](https://www.linkedin.com/in/akemi-hiruma/)
 
-- ⚡ Fun fact **🌳 Graduated in environmental biology and very interested in projects related to this area!**
+- ⚡ Fun fact ** Graduated in environmental biology and very interested in projects related to this area!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
