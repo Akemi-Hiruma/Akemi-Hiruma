@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akemi-hiruma&label=Profile%20views&color=0e75b6&style=flat" alt="akemi-hiruma" /> </p>
 
 <h1 align="center">Hey there, I'm Akemi Hiruma!</h1>
-<h3 align="center">I'm a full-stack developer graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/pt-BR/web-development-course/full-time/)</h3>
+<h3 align="center">I'm a full-stack developer graduated from Le Wagon's Coding Bootcamp</h3>
 
 🛠 I'm currently working on [Rails-watch list](https://github.com/Akemi-Hiruma/rails-watch-list)
 
