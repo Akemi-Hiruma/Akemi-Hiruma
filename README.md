@@ -11,11 +11,7 @@
 
 - 📂 Former projects I worked on [Zero Waste](https://www.zerowaste.app.br/) and [Hobbyshare](https://hobbyshare-brunasuzuki.herokuapp.com/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Akemi-Hiruma?tab=repositories](https://github.com/Akemi-Hiruma?tab=repositories)
-
 - 📫 How to reach me **akemi.hiruma@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/akemi-hiruma/](https://www.linkedin.com/in/akemi-hiruma/)
 
 - ⚡ Fun fact: **Graduated in environmental biology and I'm very interested in working on projects related the area!**
 
