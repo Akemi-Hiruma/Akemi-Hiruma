@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akemi-hiruma&label=Profile%20views&color=0e75b6&style=flat" alt="akemi-hiruma" /> </p>
 
 <h1 align="center">Hey there, I'm Akemi Hiruma!</h1>
-<h3 align="center">I'm a full-stack developer graduated from Le Wagon's Coding Bootcamp</h3>
+<h3 align="center">I'm a full-stack developer graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/pt-BR/web-development-course/full-time)</h3>
 
 🛠 I'm currently working on [Rails-watch list](https://github.com/Akemi-Hiruma/rails-watch-list)
 
@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/akemi-hiruma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akemi-hiruma" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/akemihiruma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="akemi-hiruma" height="30" width="40" /></a>
   <a href="https://twitter.com/akemi_hiruma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akemi_hiruma" height="30" width="40" /></a>
 </p>
 
