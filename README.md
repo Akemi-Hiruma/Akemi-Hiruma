@@ -1,8 +1,9 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=akemi-hiruma&label=Profile%20views&color=0e75b6&style=flat" alt="akemi-hiruma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akemi-hiruma&label=Profile%20views&color=0e75b6&style=flat" alt="akemi-hiruma" /> </p>
 <h1 align="center">Hey there, I'm Akemi Hiruma!</h1>
 <h3 align="left">I'm a full-stack developer graduated from Le Wagon's Coding Bootcamp</h3>
 <img align="right" src="https://c.tenor.com/FjenEi239_sAAAAC/tonton-tobi.gif" height="120" width="120">
-🛠 I'm currently working on [Rails-watch list](https://github.com/Akemi-Hiruma/rails-watch-list)
+
+🛠 I'm currently working on **[Rails-watch list](https://github.com/Akemi-Hiruma/rails-watch-list/)**
 
 📚 I’m currently learning **React** and **node js**
 
