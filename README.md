@@ -1,19 +1,17 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akemi-hiruma&label=Profile%20views&color=0e75b6&style=flat" alt="akemi-hiruma" /> </p>
+
 <h1 align="center">Hey there, I'm Akemi Hiruma!</h1>
 <h3 align="center">I'm a full-stack developer graduated from Le Wagon's Coding Bootcamp</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akemi-hiruma&label=Profile%20views&color=0e75b6&style=flat" alt="akemi-hiruma" /> </p>
+🛠 I'm currently working on [Rails-watch list](https://github.com/Akemi-Hiruma/rails-watch-list)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akemi-hiruma" alt="akemi-hiruma" /></a> </p>
+📚 I’m currently learning **React and node js**
 
-- 🛠 I'm currently working on [Rails-watch list](https://github.com/Akemi-Hiruma/rails-watch-list)
+📂 Former projects I worked on **[Zero Waste](https://www.zerowaste.app.br/)** and **[Hobbyshare](https://hobbyshare-brunasuzuki.herokuapp.com/)**
 
-- 📚 I’m currently learning **React and node js**
+📫 How to reach me **akemi.hiruma@gmail.com**
 
-- 📂 Former projects I worked on [Zero Waste](https://www.zerowaste.app.br/) and [Hobbyshare](https://hobbyshare-brunasuzuki.herokuapp.com/)
-
-- 📫 How to reach me **akemi.hiruma@gmail.com**
-
-- ⚡ Fun fact: **Graduated in environmental biology and I'm very interested in working on projects related the area!**
+⚡ Fun fact: Graduated in environmental biology and very interested in uniting my both passions!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
