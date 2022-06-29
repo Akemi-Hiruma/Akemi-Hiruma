@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/akemi-hiruma/](https://www.linkedin.com/in/akemi-hiruma/)
 
-- ⚡ Fun fact ** Graduated in environmental biology and very interested in projects related to this area!**
+- ⚡ Fun fact: **Graduated in environmental biology and I'm very interested in working on projects related the area!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
