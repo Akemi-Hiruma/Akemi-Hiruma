@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akemi-hiruma&label=Profile%20views&color=0e75b6&style=flat" alt="akemi-hiruma" /> </p>
 <p>Le Wagon's Alumni | Web Development - Batch #898 </p>
 <ul>
-  <li> Graduated in Environmental Biology </li>
+  <li> Graduated in Environmental Biology <img align="right" src="https://c.tenor.com/FjenEi239_sAAAAC/tonton-tobi.gif" height="120" width="120"></li>
   <li> Diligent in studies, I strive to design creative solutions to help people </li>
   <li> I’m currently learning <strong>react</strong> and <strong>node js</strong> </li>
   <li> Former projects I worked on: <a href="https://www.zerowaste.app.br/" target="blank"><strong>Zero Waste</strong></a> and <a href="https://hobbyshare-brunasuzuki.herokuapp.com/" target="blank"> <strong>Hobbyshare</strong> </a> </li>
