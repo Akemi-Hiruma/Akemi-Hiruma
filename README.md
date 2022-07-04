@@ -6,7 +6,7 @@
   <li>Diligent in studies, I strive to design creative solutions to help people</li>
   <li>I’m currently learning <strong>react</strong> and <strong>node js</strong></li>
   <li>Former projects I worked on: <a href="https://www.zerowaste.app.br/" target="blank"><strong>Zero Waste</strong></a> and <a href="https://hobbyshare-brunasuzuki.herokuapp.com/" target="blank"><strong>Hobbyshare</strong></a></li>
-  <li>I'm open to learn and collaborate on projects/work, so feel free to contact me</li>
+  <li>I'm open to opportunities of work and to collaborate on projects, so feel free to contact me</li>
   <li>You can reach me <a href = "mailto:akemi.hiruma@gmail.com" target="blank">here</a></li>
 </ul>
 <!-- Social Media -->
